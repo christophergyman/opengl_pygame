@@ -1,0 +1,32 @@
+# Blender 4.0.1 MTL File: 'GenTree-103_AE3D_03122023-F1.blend'
+# www.blender.org
+
+newmtl Material-Leaves
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd ../../GenTree-103_AE3D_03122023-F1_BL/textures/Leaf_Oak_Gum_AE3D_10302022-A.png
+map_d ../../GenTree-103_AE3D_03122023-F1_BL/textures/Leaf_Oak_Gum_AE3D_10302022-A.png
+
+newmtl Material.Trunk_and_Primary_Limbs
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ../../GenTree-103_AE3D_03122023-F1_BL/textures/GenTree_2_Trunk_Limbs_AE3D_03312023-A-DIFFUSE.png
+map_Ns ../../GenTree-103_AE3D_03122023-F1_BL/textures/GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl Material.Twigs
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ../../GenTree-103_AE3D_03122023-F1_BL/textures/Gentree_2_Twigs_AE3D_04022023-B-DIFFUSE.jpg
+map_Ns ../../GenTree-103_AE3D_03122023-F1_BL/textures/GenTree_2_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
