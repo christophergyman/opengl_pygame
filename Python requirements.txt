@@ -1,0 +1,10 @@
+# Python Requirements
+The libary links are more in depth and can be found in the markdown text of the "README.md" file
+
+## Libraries
+1. pygame
+2. opengl
+3. numpy
+
+## Installation
+To find these please read the "README.md" further as it provides links

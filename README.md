@@ -29,6 +29,12 @@ The classic scheme of
 3. '0' key to convert the objects to their wireframe
 4. 'q' key to quit the rendering opengl window.
 
+## Requirements:
+Libraries requried are 
+1. [Pyghme](https://www.pygame.org/news)
+2. [OpenGL](https://www.opengl.org/)
+3. [numpy](https://numpy.org/install/)
+
 ## Config
 If you are having issues with loading the materials into the models it will be beacuse the folder structure on your specific machine is different to the one that I am running. Hence go through the folder structure below; and change the lines within the objects.mtl to the textures within the download textures folder in the root of the project.
 ```
