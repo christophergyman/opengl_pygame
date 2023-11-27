@@ -41,4 +41,13 @@ If you are having issues with loading the materials into the models it will be b
 opengl_pygame --> engine_code --> models --> 
 ```
 
+## Credits
+All of the textures and object models that were used were of free licensing from [turbosquid](https://www.turbosquid.com/)
+
+* [3D 5 High-Rise Buildings](https://www.turbosquid.com/3d-models/3d-5-highrise-buildings-1791113)
+* [rex](https://www.turbosquid.com/3d-models/tyrannosaurio-dinosaurio-obj-free/1049353)
+* [GenTree 103 Generic Tree 103 3D model](https://www.turbosquid.com/3d-models/gentree-103-generic-tree-103-3d-model-2062798)
+* [3D s15 lowpoly](https://www.turbosquid.com/3d-models/3d-s15-lowpoly-2126022)   
+* [Northrop T-38 Talon](https://www.turbosquid.com/3d-models/free-max-model-northrop-t-38-talon/711530)
+
 
