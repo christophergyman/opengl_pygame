@@ -31,7 +31,7 @@ The classic scheme of
 
 ## Requirements:
 Libraries requried are 
-1. [Pyghme](https://www.pygame.org/news)
+1. [Pygame](https://www.pygame.org/news)
 2. [OpenGL](https://www.opengl.org/)
 3. [numpy](https://numpy.org/install/)
 
